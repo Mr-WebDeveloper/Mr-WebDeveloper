@@ -9,7 +9,7 @@
   
 - 📫 Mail me @ **smkamatchi20@gmail.com**
 - 
-  <img src="https://drive.google.com/file/d/1tgz6KWCkzRD75_1_7Wp29YuV_A-i43gW/view?usp=drive_link" alt="mr-webdeveloper" />
+  <img src="https://drive.google.com/file/d/1tgz6KWCkzRD75_1_7Wp29YuV_A-i43gW/view" alt="mr-webdeveloper" />
 
 <h3 align="left">Connect: </h3>
 <p align="left">
