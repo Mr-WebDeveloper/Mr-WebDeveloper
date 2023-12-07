@@ -67,8 +67,8 @@
   </a> 
 </p>
 
-<h1 align="center">Software Tools</h1>
-<p align="center">
+<h1>Software Tools</h1>
+<p style="text-align: center; padding: 20px;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a> 
