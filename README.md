@@ -2,13 +2,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="mr-webdeveloper" />
 </p>
+  <img align="right" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png" alt="mr-webdeveloper" width="300" height="400"/>
 
 - **Computer Science and Engineering Graduate**
   
 - **Fullstack Web Developer**
   
 - 📫 Mail me @ **smkamatchi20@gmail.com**
-  <img align="right" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png" alt="mr-webdeveloper" />
 
 <h3 align="left">Connect: </h3>
 <p align="left">
