@@ -8,6 +8,7 @@
 - **Fullstack Web Developer**
   
 - 📫 Mail me @ **smkamatchi20@gmail.com**
+  <img src="[https://komarev.com/ghpvc/?username=mr-webdeveloper&label=Profile%20views&color=0e75b6&style=flat](https://drive.google.com/drive/u/0/folders/17uTfnvgGwsKVk-_R2Bj_Os1CwKKgg494)" alt="mr-webdeveloper" />
 
 <h3 align="left">Connect: </h3>
 <p align="left">
