@@ -81,7 +81,7 @@
 </a>&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="background-color: white; border-radius: 10px;">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="background-color: white;">
 </a>&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" >
