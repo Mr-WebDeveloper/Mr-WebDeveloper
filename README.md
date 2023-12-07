@@ -17,8 +17,6 @@
 </p>
 
 <h1 align="left">Programming Skills</h1><br/>
-
-<p align="center">
   
 <h3>Scripting Language</h3>
 <p>
@@ -67,7 +65,6 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a> 
-</p>
 </p>
 
 <h1>Software Tools</h1>
