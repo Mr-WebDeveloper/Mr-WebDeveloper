@@ -8,7 +8,7 @@
 - **Fullstack Web Developer**
   
 - 📫 Mail me @ **smkamatchi20@gmail.com**
-  <img align="right" src="https://github.com/Mr-WebDeveloper/Muthus_Blog/blob/main/public/styles/pc.png" alt="mr-webdeveloper" />
+  <img align="right" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png" alt="mr-webdeveloper" />
 
 <h3 align="left">Connect: </h3>
 <p align="left">
