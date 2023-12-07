@@ -1,10 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Muthu Kamatchi <h3>B.E.,</h3></h1>
+<h1 align="center">Hi there 👋, I'm Muthu Kamatchi</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="mr-webdeveloper" />
 </p>
 
 - **Computer Science and Engineering Graduate**
+  
 - **Fullstack Web Developer**
+  
 - 📫 Mail me @ **smkamatchi20@gmail.com**
 
 <h3 align="left">Connect: </h3>
@@ -69,18 +71,18 @@
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
+  </a> &nbsp; &nbsp; 
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a> 
+  </a>&nbsp; &nbsp; 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
+  </a> &nbsp; &nbsp; 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a> &nbsp; &nbsp; 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a> 
 </p>
 
