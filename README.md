@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Muthu Kamatchi</h1>
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="mr-webdeveloper" />
 </p>
 
@@ -84,6 +84,6 @@
   </a> 
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-webdeveloper&show_icons=true&locale=en&layout=compact" alt="mr-webdeveloper" />
 </p>
