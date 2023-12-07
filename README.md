@@ -1,4 +1,4 @@
-[!MasterHead](https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner.png)
+![MasterHead](https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi there 👋, I'm Muthu Kamatchi</h1>
 <p align="center">
