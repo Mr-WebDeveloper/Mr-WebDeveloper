@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Muthu Kamatchi</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="mr-webdeveloper" />
+  <img align="right" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png" alt="mr-webdeveloper" width="200" height="200"/>
 </p>
-  <img align="right" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png" alt="mr-webdeveloper" width="300" height="400"/>
 
 - **Computer Science and Engineering Graduate**
   
