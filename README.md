@@ -3,7 +3,6 @@
 <h1 align="center">Hi there 👋, I'm Muthu Kamatchi</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="mr-webdeveloper" />
-  <img align="right" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png" alt="mr-webdeveloper" width="200" height="200"/>
 </p>
 
 - **Computer Science and Engineering Graduate**
@@ -23,7 +22,7 @@
 
 <h1 align="left">🖥  Techenical Skills</h1><br/>
   
-<h3 align="center">Scripting Language </h3>
+<h3 align="center">🧾  Scripting Language </h3>
 <br clear="both">
 
 <div align="center">
@@ -35,7 +34,7 @@
 </div>
 
 
-<h3 align="center">Querying Language </h3>
+<h3 align="center">🧾  Querying Language </h3>
 <br clear="both">
 
 <div align="center">
@@ -46,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt="postgresql logo"  />
 </div>
 
-<h3 align="center">Programming Language</h3>
+<h3 align="center">🧾  Programming Language</h3>
 <br clear="both">
 
 <div align="center">
@@ -57,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" alt="react logo"  />
 </div>
 
-<h3 align="center">Back End</h3>
+<h3 align="center">🧾  Back End</h3>
 <br clear="both">
 
 <div align="center">
