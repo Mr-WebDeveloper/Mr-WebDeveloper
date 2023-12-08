@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner.png)
+![MasterHead](https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/Github.png)
 
 <h1 align="center">Hi there 👋, I'm Muthu Kamatchi</h1>
 <p align="center">
@@ -11,7 +11,7 @@
   
 - **<h3>📧  Mail me @ smkamatchi20@gmail.com</h3>**
   <br clear="both">
-  <img align="right" height="150" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png"  />
+  <img align="right" height="150" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/Desktop_Mobile.png"/>
 
 **<h3 align="center">Connect Me On: </h3>**
 <div align="center">
