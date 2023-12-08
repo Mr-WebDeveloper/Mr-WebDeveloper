@@ -7,7 +7,7 @@
 
 - **👨🏻‍🎓  Computer Science and Engineering Graduate**
   
-- ** 🕸  Fullstack Web Developer**
+- **🕸  Fullstack Web Developer**
 
 -📧  Mail me @ smkamatchi20@gmail.com
   
