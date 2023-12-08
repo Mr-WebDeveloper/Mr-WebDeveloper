@@ -5,18 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=mr-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="mr-webdeveloper" />
 </p>
 
-- **Computer Science and Engineering Graduate**
+- **👨🏻‍🎓  Computer Science and Engineering Graduate**
   
-- **Fullstack Web Developer**
+- ** 🕸  Fullstack Web Developer**
+
+-📧  Mail me @ smkamatchi20@gmail.com
   
 
 <h3 align="left">Connect: </h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/muthu-kamatchi-a4ba441b8/" target="_blank">
+  <a href="https://www.linkedin.com/in/muthu-kamatchi-a4ba441b8/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="smkamatchi20@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
