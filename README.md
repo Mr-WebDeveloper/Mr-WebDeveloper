@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/Black%20Liquid%20Minimalist%20Daily%20Quotes%20LinkedIn%20Banner.png)
+![MasterHead](https://drive.google.com/file/d/1TPywZgjeOaVGB2jWJgL0YknUjZBxcV0B/view?usp=sharing)
 
 <h1 align="center">Hi there 👋, I'm Muthu Kamatchi</h1>
 <p align="center">
@@ -10,14 +10,16 @@
   
 - **Fullstack Web Developer**
   
-- 📫 Mail me @ **smkamatchi20@gmail.com**
 
 <h3 align="left">Connect: </h3>
-<p align="left">
-  <a href="https://linkedin.com/in/muthu kamatchi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muthu kamatchi" height="30" width="40" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/muthu-kamatchi-a4ba441b8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</p>
+  <a href="smkamatchi20@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 <h1 align="left">🖥  Techenical Skills</h1><br/>
   
