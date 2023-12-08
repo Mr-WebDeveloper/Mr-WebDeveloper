@@ -76,6 +76,8 @@
   <img width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="55" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="50"/> 
+  <img width="55" /> <br/>
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase logo"  />
