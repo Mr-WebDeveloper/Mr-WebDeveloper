@@ -14,10 +14,11 @@
 
 **<h3 align="center">Connect Me On: </h3>**
 <div align="center">
-  <img align="right" height="150" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png"  />
   <a href="https://www.linkedin.com/in/muthu-kamatchi-a4ba441b8/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <br clear="both">
+  <img align="right" height="150" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png"  />
 </div>
 
 
