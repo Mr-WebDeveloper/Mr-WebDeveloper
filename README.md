@@ -5,14 +5,14 @@
   <img src="https://komarev.com/ghpvc/?username=mr-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="mr-webdeveloper" />
 </p>
 
-- **👨🏻‍🎓  Computer Science and Engineering Graduate**
+- **<h1>👨🏻‍🎓  Computer Science and Engineering Graduate</h1>**
   
-- **🕸  Fullstack Web Developer**
-
--📧  Mail me @ smkamatchi20@gmail.com
+- **<h2>🕸  Fullstack Web Developer</h2>**
+  
+- **<h3>📧  Mail me @ smkamatchi20@gmail.com</h3>**
   
 
-<h3 align="left">Connect: </h3>
+**<h3 align="center">Connect Me On: </h3>**
 <div align="center">
   <a href="https://www.linkedin.com/in/muthu-kamatchi-a4ba441b8/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -80,7 +80,7 @@
 <h1 align="left">🏆  Contributes :</h1>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-webdeveloper&show_icons=true&locale=en&layout=compact" alt="mr-webdeveloper" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-webdeveloper&show_icons=true&theme=dark&locale=en&layout=compact" alt="mr-webdeveloper" />
 </p>
 
 <h1 align="left">🔥   My Stats :</h1>
