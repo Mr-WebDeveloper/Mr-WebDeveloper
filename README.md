@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h1 align="left">Programming Skills</h1><br/>
+<h1 align="left">🖥  Programming Skills</h1><br/>
   
 <h3 align="left">Scripting Language </h3>
 <p align="center">
@@ -70,7 +70,7 @@
   </a> 
 </p>
 
-<h1 align="center">Software Tools</h1>
+<h1 align="center">🛠  Software Tools</h1>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
@@ -93,6 +93,14 @@
 </a
 </p>
 
+<h1 align="left">🏆  Contributes :</h1>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-webdeveloper&show_icons=true&locale=en&layout=compact" alt="mr-webdeveloper" />
 </p>
+
+<h3 align="left">🔥   My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TheOneGoodDeveloper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
