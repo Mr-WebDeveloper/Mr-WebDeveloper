@@ -3,6 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Muthu Kamatchi</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mr-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="mr-webdeveloper" />
+  ![Visitor Count](https://profile-counter.glitch.me/mr-webdeveloper/count.svg)
 </p>
 
 - **<h1>👨🏻‍🎓  Computer Science and Engineering Graduate</h1>**
