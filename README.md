@@ -93,13 +93,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-webdeveloper&show_icons=true&theme=dark&locale=en&layout=compact" alt="mr-webdeveloper" />
 </p>
 
-
-https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/google.png
-
 <h1 align="left">🔥   My Stats :</h1>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mr-webdeveloper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<br clear="both">
-  <img align="right" height="150" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/google.png" />
