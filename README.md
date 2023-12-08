@@ -11,7 +11,7 @@
   
 - **<h3>📧  Mail me @ smkamatchi20@gmail.com</h3>**
   <br clear="both">
-  <img align="right" height="150" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png"  />
+  <img align="right" height="200" src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/pc-removebg-preview.png"  />
 
 **<h3 align="center">Connect Me On: </h3>**
 <div align="center">
@@ -42,9 +42,9 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
-  <img width="60" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50" alt="mongodb logo"  />
-  <img width="60" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="postgresql logo"  />
 </div>
 
