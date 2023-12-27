@@ -20,11 +20,9 @@
   <a href="https://www.linkedin.com/in/muthu-kamatchi-a4ba441b8/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  
 </div>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muthu-kamatchi-a4ba441b8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/muthu-kamatchi-a4ba441b8?trk=profile-badge">Muthu Kamatchi</a></div>
+              
 
 
 <h1 align="left">🖥  Techenical Skills</h1><br/>
