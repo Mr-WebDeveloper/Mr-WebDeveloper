@@ -20,6 +20,8 @@
   <a href="https://www.linkedin.com/in/muthu-kamatchi-a4ba441b8/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   
 </div>
 
