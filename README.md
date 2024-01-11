@@ -23,10 +23,6 @@
   
 </div>
 
-<!-- <h1>LinkedIn Badge</h1> -->
-<!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muthu-kamatchi-a4ba441b8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/muthu-kamatchi-a4ba441b8?trk=profile-badge">Muthu Kamatchi</a></div> -->
-              
-
 
 <h1 align="left">🖥  Techenical Skills</h1><br/>
   
@@ -98,8 +94,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-webdeveloper&show_icons=true&theme=dark&locale=en&layout=compact" alt="mr-webdeveloper" />
 </p>
 
+
+
+<!-- <h1>LinkedIn Badge</h1> 
 <h1 align="left">🔥   My Stats :</h1>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mr-webdeveloper&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+-->
+<!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muthu-kamatchi-a4ba441b8" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/muthu-kamatchi-a4ba441b8?trk=profile-badge">Muthu Kamatchi</a></div> -->
+              
