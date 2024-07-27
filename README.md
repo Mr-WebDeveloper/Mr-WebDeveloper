@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/Github.png)
+![MasterHead](https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/LinkedIn%20(1).png)
 
 <h1 align="center">Hi there 👋, I'm Muthu Kamatchi</h1>
 <p align="center">
